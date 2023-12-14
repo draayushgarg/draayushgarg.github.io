@@ -1,9 +1,3 @@
-**NOTE:**
-
-**Website is under construction.**
-
-**If further information is required urgently, please feel free to contact via email.**
-
 ---
 permalink: /
 title: "About me"
@@ -34,11 +28,8 @@ Professional Experience
 - He implemented microservices to enable easily configurable email alerts streamlining min. 80% business process workflow.
 - He integrated portfolio dashboard and reporting capabilities for 11 Business Experts (SMEs) to facilitate overall debt investment overview.
 
-Education
----------
+**NOTE:**
 
+**Website is under construction.**
 
-
-Research
--------------------
-
+**If further information is required urgently, please feel free to contact via email.**
