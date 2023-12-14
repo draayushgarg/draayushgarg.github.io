@@ -13,26 +13,20 @@ Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre fo
 
 Professional Experience
 -----------------------
-July 2019 - Present | Researcher |  [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu/)
+**Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu/) from July 2019 to Present**
 - Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
 - He trained Neural Networks and Machine Learning models to achieve task-specific classifications with up to 87% Precision and Recall.
 - He employed LLMs and GPTs to induce artificial faults enabling up to 65% increased test effectiveness in detecting zero-day vulnerabilities.
 
+**Senior Software Engineer at [Futures First](https://futuresfirst.com), India from September 2014 to February 2017**
+- Aayush developed multi-threaded Windows application to process and display prices and trade updates of invested stocks with a 3-second refresh rate.
+- He implemented microservices to capture up to 12 stock price updates per second (real-time) via market APIs.
+- He engineered Futures and Commodities trading platform empowering min.  95% organizational market investments.
 
-Ezekiel Soremekun was previously a Research Scientist 
-at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
-(led by Prof. Dr. Yves Le Traon), 
-[SnT](https://wwwen.uni.lu/snt) 
--- Interdisciplinary Centre for Security, Reliability and Trust, 
-at the 
-[University of Luxembourg](https://wwwen.uni.lu), Luxembourg. 
-Before then, he was a researcher (and PhD candidate) at the [Software Engineering Research Group](https://andreas-zeller.info) 
-(of Prof. Dr. Andreas Zeller) at 
-[CISPA Helmholtz Center for Information Security](https://cispa.de/en), [Saarland University](https://www.uni-saarland.de/en/home.html).
-He was also a visiting researcher at the 
-[Automated Systems SEcuriTy (ASSET) Research Group](https://asset-group.github.io) 
-(of Prof. Dr. Sudipta Chattopadhyay) at 
-[SUTD](https://www.sutd.edu.sg) -- Singapore University of Technology and Design. 
+**Senior Software Engineer at [Indus Valley Partners](https://www.ivp.in/), USA from August 2012 to September 2014**
+- Aayush built investment compliance application to automate legal due diligence auditing replacing up to 85% manual effort.
+- He implemented microservices to enable easily configurable email alerts streamlining min. 80% business process workflow.
+- He integrated portfolio dashboard and reporting capabilities for 11 Business Experts (SMEs) to facilitate overall debt investment overview.
 
 Education
 ---------
