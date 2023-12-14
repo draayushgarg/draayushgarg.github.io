@@ -13,6 +13,12 @@ Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre fo
 
 Professional Experience
 -----------------------
+July 2019 - Present | Researcher |  [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu/)
+- Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
+- He trained Neural Networks and Machine Learning models to achieve task-specific classifications with up to 87% Precision and Recall.
+- He employed LLMs and GPTs to induce artificial faults enabling up to 65% increased test effectiveness in detecting zero-day vulnerabilities.
+
+
 Ezekiel Soremekun was previously a Research Scientist 
 at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
 (led by Prof. Dr. Yves Le Traon), 
