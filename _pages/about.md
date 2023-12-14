@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt) in the [University of Luxembourg](https://www.uni.lu/). 
+Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu/). Aayush is a detail-oriented professional with over 4 years dedicated to AI and Security research, and more than 7 years committed to Software Development and QA. He has demonstrated proficiency in propelling 15+ innovative projects.
 
 
 Professional Experience
