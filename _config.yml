@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ezekiel Soremekun"
+title                    : "Dr. Aayush Garg"
 title_separator          : "-"
-name                     : &name "Ezekiel Soremekun"
-description              : &description Lecturer (Asst. Prof.) #"Research Scientist" #Associate (PostDoc)"
-url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
+name                     : &name "Aayush Garg"
+description              : &description Postdoctoral Researcher
+url                      : https://draayushgarg.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://ezekiel-soremekun.github.io"
+repository               : "https://draayushgarg.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300w.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,17 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Ezekiel Soremekun"
+  name             : "Dr. Aayush Garg"
   avatar           : "profile.png" #"Ezekiel_Soremekun.jpg"
-  bio              : "Lecturer (Asst. Prof.) at RHUL, UK."
-#in Computer Science (Software Engineering) at Royal Holloway, University of London (RHUL), UK." 
-# "Research Scientist at SnT, University of Luxembourg." 
-  location         : Egham, UK #"Luxembourg"
-  employer         :
+  bio              : "Postdoctoral Researcher at the University of Luxembourg"
+  location         : Luxembourg, EU
+  employer         : Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?user=r8T1-yoAAAAJ&hl=en"
-  email            : "ezekiel.soremekun@rhul.ac.uk" #uni.lu"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Ezekiel-Soremekun-2130094542"
+  googlescholar    : "https://scholar.google.com/citations?user=UB0hgRAAAAAJ"
+  email            : "aayush.garg@uni.lu"
+  researchgate     : "https://www.researchgate.net/profile/Aayush-Garg-15"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,15 +102,15 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ezekiel-soremekun"
-  orcid            : "https://orcid.org/0000-0002-0039-8106"
-  dblp		   : "https://dblp.org/pid/200/2864.html"
+  linkedin         : "https://www.linkedin.com/in/foraayushgarg"
+  orcid            : "https://orcid.org/0000-0002-2507-8846"
+  dblp		         : "https://dblp.org/pid/36/8488.html"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ezekSoremekun"
+  twitter          : "AayushGarg4real"
   vine             :
   weibo            :
   xing             :
