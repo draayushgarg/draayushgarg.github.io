@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ezekiel Soremekun is a Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at 
-[Royal Holloway, University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
+Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt) in the [University of Luxembourg](https://www.uni.lu/). 
 
 
 Professional Experience
