@@ -1,3 +1,9 @@
+**NOTE:**
+
+**Website is under construction.**
+
+**If further information is required urgently, please feel free to contact via email.**
+
 ---
 permalink: /
 title: "About me"
