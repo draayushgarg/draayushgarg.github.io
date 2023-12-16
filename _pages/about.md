@@ -31,12 +31,15 @@ Professional Experience
 Education
 ---------
 **PhD in Computer Science with a concentration in AI and QA & Software Security at [University of Luxembourg](https://www.uni.lu/), Luxembourg from July 2019 - May 2023**
+
 Aayush's thesis on [Guiding Quality Assurance Through Context Aware Learning](https://hdl.handle.net/10993/55042) focused on harnessing AI, especially Deep Learning (Neural Network architecture and Large Language Models) to enable up to 46 times (4600%) higher efficiency of Software Development and QA processes.
 
 **Masters in Computer Science with a concentration in Security at [Boston University](https://www.bu.edu), USA**
+
 Achieved Grade: **A** with a GPA of 3.8 (out of 4.0)
 
-**Bachelors in Technology at [Amity University](https://www.amity.edu), India
+**Bachelors in Technology at [Amity University](https://www.amity.edu), India**
+
 Achieved Grade: **A** with a GPA of 7.0 (out of 10.0)
 
 **NOTE:**
