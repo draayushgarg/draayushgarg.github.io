@@ -32,7 +32,7 @@ Education
 ---------
 **PhD in Computer Science with a concentration in AI and QA & Software Security at [University of Luxembourg](https://www.uni.lu/), Luxembourg from July 2019 - May 2023**
 
-Aayush's thesis on [Guiding Quality Assurance Through Context Aware Learning](https://hdl.handle.net/10993/55042) focused on harnessing AI, especially Deep Learning (Neural Network architecture and Large Language Models) to enable up to 46 times (4600%) higher efficiency of Software Development and QA processes.
+Aayush's research on [Guiding Quality Assurance Through Context Aware Learning](https://hdl.handle.net/10993/55042) focused on harnessing AI, especially Deep Learning (Neural Networks and Large Language Models), to guide Software Security and Quality Assurance practices, and proposed novel methods achieving 80% higher accuracy in software vulnerability prediction, and 42 times (4200%) higher efficiency in code assertion inference, among other contributions.
 
 **Masters in Computer Science with a concentration in Security at [Boston University](https://www.bu.edu), USA**
 
