@@ -44,7 +44,3 @@ Education
 **Bachelors in Technology at [Amity University](https://www.amity.edu), India**
 
 - Achieved Grade: **A** with a GPA of 7.0 (out of 10.0)
-
-PLEASE NOTE
--
-**Apologies for the inconvenience. The website is currently under construction as I am engaged in other tasks. For urgent inquiries or additional information, please reach out to me via email. Thank you for your understanding.**
