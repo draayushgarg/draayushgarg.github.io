@@ -10,9 +10,12 @@ redirect_from:
 
 Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu). Aayush is a detail-oriented professional with over 4 years dedicated to AI and Security research, and more than 7 years committed to Software Development and QA. He has demonstrated proficiency in propelling 15+ innovative projects.
 
+Research Interests
+-
+Aayush's research endeavors revolve around the dynamic intersection of **Security Testing** and **Machine learning**, with a focus on enhancing **Software Quality and Validation**. With a background in **Quality Assurance**, including **Mutation Testing**, **Assertion Inference**, and **Vulnerability Prediction**, his work aims to revolutionize **Software Testing Methodologies**. He is committed to advancing **Software Validation Methods**, aiming to provide tangible tools and techniques for the evolving landscape of **Software Testing**, **Security**, and **Artificial Intelligence**.
 
 Professional Experience
------------------------
+-
 **Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to Present**
 - Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
 - He trained Neural Networks and Machine Learning models to achieve task-specific classifications with up to 87% Precision and Recall.
@@ -29,7 +32,7 @@ Professional Experience
 - He integrated portfolio dashboards and reporting capabilities for 11 Business Experts (SMEs) to facilitate overall debt investment overview.
 
 Education
----------
+-
 **PhD in Computer Science with a concentration in AI and QA & Software Security at [University of Luxembourg](https://www.uni.lu/), Luxembourg from July 2019 - May 2023**
 
 - Aayush's research on [Guiding Quality Assurance Through Context Aware Learning](https://hdl.handle.net/10993/55042) focused on harnessing AI, especially Deep Learning (Neural Networks and Large Language Models), to guide Software Security and Quality Assurance practices, and proposed novel methods achieving 80% higher accuracy in software vulnerability prediction, and 42 times (4200%) higher efficiency in code assertion inference, among other contributions.
@@ -42,6 +45,6 @@ Education
 
 - Achieved Grade: **A** with a GPA of 7.0 (out of 10.0)
 
-**NOTE:**
-
+PLEASE NOTE
+-
 **Apologies for the inconvenience. The website is currently under construction as I am engaged in other tasks. For urgent inquiries or additional information, please reach out to me via email. Thank you for your understanding.**
