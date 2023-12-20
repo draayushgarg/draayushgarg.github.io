@@ -12,7 +12,7 @@ Dr. Aayush Garg is a Postdoctoral Researcher at the [Interdisciplinary Centre fo
 
 Research Interests
 -
-Aayush's research endeavors revolve around the dynamic intersection of **Security Testing** and **Machine learning**, with a focus on enhancing **Software Quality and Validation**. With a background in **Quality Assurance**, including **Mutation Testing**, **Assertion Inference**, and **Vulnerability Prediction**, his work aims to revolutionize **Software Testing Methodologies**. He is committed to advancing **Software Validation Methods**, aiming to provide tangible tools and techniques for the evolving landscape of **Software Testing**, **Security**, and **Artificial Intelligence**.
+Aayush's research endeavors revolve around the dynamic intersection of **_Security Testing_** and **_Machine learning_**, with a focus on enhancing **_Software Quality and Validation_**. With a background in **_Quality Assurance_**, including **_Mutation Testing_**, **_Assertion Inference_**, and **_Vulnerability Prediction_**, his work aims to revolutionize **_Software Testing Methodologies_**. He is committed to advancing **_Software Validation Methods_**, aiming to provide tangible tools and techniques for the evolving landscape of **_Software Testing_**, **_Security_**, and **_Artificial Intelligence_**.
 
 Professional Experience
 -
