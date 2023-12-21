@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Academic Service"
-permalink: /service/
+title: "Volunteering Activities"
+permalink: /volunteering/
 author_profile: true
 ---
 
