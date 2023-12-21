@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Funded Projects"
+title: "Recent Projects"
 permalink: /projects/
 author_profile: true
 ---
