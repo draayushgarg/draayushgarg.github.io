@@ -185,7 +185,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  service:
+  volunteering:
     output: true
     permalink: /:collection/:path/
   resume:
