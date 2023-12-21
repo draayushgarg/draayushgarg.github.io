@@ -5,6 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-This section is currently under construction due to active engagement in other tasks. 
+This section is currently under construction due to active engagement in other tasks. Thank you for your patience.
 
-For additional information, please feel free to reach out via email. 
+If urgent, please feel free to reach out via email.
