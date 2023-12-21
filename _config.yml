@@ -176,30 +176,30 @@ kramdown:
 
 # Collections
 collections:
-  #teaching:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #publications:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #projects:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #service:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #resume:
-  #  output:true
-  #  permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #teaching:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #talks:
-  #  output: true
-  #  permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
+  resume:
+    output:true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,7 +251,7 @@ defaults:
   # _service
   - scope:
       path: ""
-      type: service
+      type: volunteering
     values:
       layout: single
       author_profile: true
