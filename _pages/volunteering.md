@@ -5,4 +5,6 @@ permalink: /volunteering/
 author_profile: true
 ---
 
-Apologies for the inconvenience. This section is currently under construction due to active engagement in other tasks. For additional information, please feel free to reach out via email. Thank you for your understanding.
+This section is currently under construction due to active engagement in other tasks. Thank you for your patience.
+
+If urgent, please feel free to reach out via email.
