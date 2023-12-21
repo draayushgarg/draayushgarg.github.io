@@ -22,6 +22,7 @@ Aayush Garg, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre,
 IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
 [link](https://ieeexplore.ieee.org/document/10301231)
 [Github](https://github.com/garghub/seeker)
+[PDF](https://draayushgarg.github.io/files/Enabling_Efficient_Assertion_Inference.pdf)
 
 * **"On Comparing Mutation Testing Tools through Learning-based Mutant Selection."**
 Milos Ojdanic, Ahmed Khanfir, **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
