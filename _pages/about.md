@@ -31,6 +31,11 @@ Professional Experience
 - He implemented microservices to enable easily configurable email alerts streamlining min. 80% business process workflow.
 - He integrated portfolio dashboards and reporting capabilities for 11 Business Experts (SMEs) to facilitate overall debt investment overview.
 
+**Associate Software Engineer at [Fiserv](https://www.fiserv.com), USA from May 2010 to August 2012**
+- Aayush crafted web applications to streamline investment portfolio metrics capturing, resulting in a 53% increased efficiency.
+- He resolved defects and maintained source code to promote the management of 3 large-scale Electronic Fund Transfer banking projects.
+- He ensured high quality (min. 85% defect-free) of applications under development through peer-reviewing code modifications.
+
 Education
 -
 **PhD in Computer Science with a concentration in AI and QA & Software Security at [University of Luxembourg](https://www.uni.lu/), Luxembourg from July 2019 - May 2023**
