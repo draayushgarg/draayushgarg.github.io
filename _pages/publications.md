@@ -28,6 +28,8 @@ IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
 Milos Ojdanic, Ahmed Khanfir, **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
 ACM/IEEE International Conference on Automation of Software Test (AST), 2023
 [link](https://ieeexplore.ieee.org/document/10173980)
+[PDF](https://draayushgarg.github.io/files/OnComparingMutationTestingToolsThroughLearning-basedMutantSelection.pdf)
+[Github](https://github.com/serval-uni-lu/The_dataset_of_large_case_studies_on_mutants_similarity_with_bugs)
 
 Selected Journal Papers
 ------------------------
@@ -36,6 +38,7 @@ Selected Journal Papers
 Milos Ojdanic, **Aayush Garg**, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.
 IEEE Transactions on Software Engineering Journal (TSE), 2023
 [link](https://ieeexplore.ieee.org/document/10136793)
+[Github](https://github.com/serval-uni-lu/The_dataset_of_large_case_studies_on_mutants_similarity_with_bugs)
 
 * **"Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data."**
 **Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
