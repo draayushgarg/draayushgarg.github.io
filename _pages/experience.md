@@ -15,7 +15,9 @@ Research & Development Experience
 
 **Teaching Assistant at the [Faculty of Science, Technology and Medicine (FSTM)](https://www.uni.lu/fstm-en), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to May 2023**
 - Aayush conducted lectures on the "Introduction to Machine and Deep Learning" to [Bachelors in Computer Science (BICS)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-computer-science)
-- He taught "Introduction to Software Testing" to [Bachelors in Applied Information Technology (BINFO)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology)
+- Lecture series (videos) on the "Introduction to Machine and Deep Learning" are available [here](https://www.youtube.com/playlist?list=PL8NmkOh_MokYLfdQpCDerl_d45Hpp16nb). The videos were uploaded to make lectures available to students during the COVID-19 lockdown period.
+- He also taught "Introduction to Software Testing" to [Bachelors in Applied Information Technology (BINFO)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology)
+- Lecture series (videos) on the "Introduction to Software Testing" are available [here](https://www.youtube.com/playlist?list=PL8NmkOh_MokYbFTRu6xzTJvLNAdOquGr9). The videos were uploaded to make lectures available to students during the COVID-19 lockdown period.
 
 **Member of the Program Committees & Academic Reviewer**
 - Member of the Program Committee at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
