@@ -40,3 +40,7 @@ Industrial Experience
 - Aayush crafted web applications to streamline investment portfolio metrics capturing, resulting in a 53% increased efficiency.
 - He resolved defects and maintained source code to promote the management of 3 large-scale Electronic Fund Transfer banking projects.
 - He ensured high quality (min. 85% defect-free) of applications under development through peer-reviewing code modifications.
+
+**Causal Analysis and Resolution coordinator at [Fiserv](https://www.fiserv.com), USA from May 2010 to August 2012**
+- Aayush performed Defect Root Cause analysis and processed inefficiencies for 95% of Business Unit projects.
+- He executed corrective actions to drive continuous process enhancements, to maintain min. 85% defect-free software quality and to gain 15% increased efficiency in delivering modules every quarter.
