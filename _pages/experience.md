@@ -8,11 +8,21 @@ author_profile: true
 
 Academic Experience
 -
-**Postdoctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2023 to Present**
-**Doctoral Researcher from July 2019 to June 2023**
+**Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to Present**
 - Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
 - He trained Neural Networks and Machine Learning models to achieve task-specific classifications with up to 87% Precision and Recall.
 - He employed LLMs and GPTs to induce artificial faults enabling up to 65% increased test effectiveness in detecting zero-day vulnerabilities.
+
+**Teaching Assistant at the [Faculty of Science, Technology and Medicine (FSTM)](https://www.uni.lu/fstm-en), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to May 2023**
+- Aayush conducted lectures on the "Introduction to Machine and Deep Learning" to [Bachelors in Computer Science (BICS)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-computer-science)
+- He taught "Introduction to Software Testing" to [Bachelors in Applied Information Technology (BINFO)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology)
+
+**Member of the Program Committees & Academic Reviewer**
+- Member of the Program Committee at [ICST 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
+- Reviewer at [IEEE Transactions on Software Engineering (TSE) Journal](https://www.computer.org/csdl/journal/ts) from August 2022 - Present
+- Reviewer at [Software Testing, Verification and Reliability (STVR) Journal](https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html) from December 2023 - Present
+- Reviewer at [Springer Software Quality Journal](https://link.springer.com/journal/11219) from December 2023 - Present
+- Reviewer at [Elsevier Computers & Security Journal](https://www.sciencedirect.com/journal/computers-and-security) from January 2024 - Present
 
 Industrial Experience
 -
