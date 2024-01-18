@@ -18,7 +18,7 @@ Academic Experience
 - He taught "Introduction to Software Testing" to [Bachelors in Applied Information Technology (BINFO)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology)
 
 **Member of the Program Committees & Academic Reviewer**
-- Member of the Program Committee at [ICST 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
+- Member of the Program Committee at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
 - Reviewer at [IEEE Transactions on Software Engineering (TSE) Journal](https://www.computer.org/csdl/journal/ts) from August 2022 - Present
 - Reviewer at [Software Testing, Verification and Reliability (STVR) Journal](https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html) from December 2023 - Present
 - Reviewer at [Springer Software Quality Journal](https://link.springer.com/journal/11219) from December 2023 - Present
