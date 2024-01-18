@@ -6,7 +6,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-Academic Experience
+Research & Development Experience
 -
 **Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to Present**
 - Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
@@ -24,7 +24,7 @@ Academic Experience
 - Reviewer at [Springer Software Quality Journal](https://link.springer.com/journal/11219) from December 2023 - Present
 - Reviewer at [Elsevier Computers & Security Journal](https://www.sciencedirect.com/journal/computers-and-security) from January 2024 - Present
 
-Industrial Experience
+Software Engineering & Development Experience
 -
 **Senior Software Engineer at [Futures First](https://futuresfirst.com), India from September 2014 to February 2017**
 - Aayush developed multi-threaded Windows applications to process and display prices and trade updates of invested stocks with a 3-second refresh rate.
