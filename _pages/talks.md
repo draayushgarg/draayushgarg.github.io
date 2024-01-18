@@ -27,12 +27,12 @@ On **[Guiding Quality Assurance Through Context Aware Learning](https://www.link
 **On [Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data](https://conf.researchr.org/details/icse-2023/icse-2023-journal-first-papers/16/Learning-from-What-We-Know-How-to-Perform-Vulnerability-Prediction-using-Noisy-Histo)**
 - Aayush presented his accepted paper (Journal-First) at the 45th IEEE/ACM International Conference on Software Engineering ([ICSE 2023](https://conf.researchr.org/home/icse-2023)).
 - The presentation was held at the Melbourne Convention and Exhibition Centre in Melbourne, Australia on 19th May 2023.
-- Do you want to know what it was about in just 1 minute? Video available [here](https://youtu.be/3yh1NSksM4o).
+- Do you want to know what was it about in just 1 minute? Video available [here](https://youtu.be/3yh1NSksM4o).
 
   **On [Cerebro: Static Subsuming Mutant Selection](https://conf.researchr.org/details/ase-2022/ase-2022-journal-first-papers/6/Cerebro-Static-Subsuming-Mutant-Selection)**
 - Aayush presented his accepted paper (Journal-First) at the 37th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2022](https://conf.researchr.org/home/ase-2022)).
 - The presentation was held at the Oakland Center in Michigan, United States on 12th October 2022.
-- Do you want to know what it was about? Video available [here](https://youtu.be/sru1HHjztRA).
+- Do you want to know what was it about? Video available [here](https://youtu.be/sru1HHjztRA).
 
 
 
