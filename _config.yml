@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Aayush Garg"
 title_separator          : "-"
 name                     : &name "Aayush Garg"
-description              : &description Research and Technology (R&T) Associate
+description              : &description Researcher in Computer Science, primarily Software Security and AI
 url                      : https://draayushgarg.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://draayushgarg.github.io"
