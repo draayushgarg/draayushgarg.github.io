@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Aayush Garg"
 title_separator          : "-"
 name                     : &name "Aayush Garg"
-description              : &description Postdoctoral Researcher
+description              : &description Research and Technology (R&T) Associate
 url                      : https://draayushgarg.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://draayushgarg.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Aayush Garg"
   avatar           : "profile.png" 
-  bio              : "Postdoctoral Researcher at SnT, University of Luxembourg"
+  bio              : "Research and Technology (R&T) Associate at Luxembourg Institute of Science and Technology"
   location         : Luxembourg, Europe
   employer         : 
   pubmed           : 
