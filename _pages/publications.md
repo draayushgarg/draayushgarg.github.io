@@ -65,6 +65,7 @@ Papers Under Review
 * **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
 **Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
 (Under Review)
+[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
 
 Thesis
 -------
