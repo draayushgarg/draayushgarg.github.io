@@ -59,7 +59,7 @@ Papers Under Review
 * **"Vulnerability Mimicking Mutants."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
 (Under Review)
-[preprint](https://arxiv.org/abs/2303.04247)
+[preprint](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
 [GitHub](https://github.com/garghub/mystique)
 
 * **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
