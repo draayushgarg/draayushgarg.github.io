@@ -8,10 +8,12 @@ author_profile: true
 
 Research & Development Experience
 -
-**Research and Technology (R&T) Associate at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg from March 2024 to Present**
-- More to unravel in upcoming days...
+**Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg from March 2024 to Present**
+- Aayush is developing new methods by employing DL/LLMs to improve the security of SDLC by identifying software vulnerabilities.
+- He is employing AI solutions to prevent cyber attacks utilizing Fuzzers, by automatically detecting such attacks and by implementing software self-healing solutions focusing on automatically generating vulnerability patches.
+- He is developing automated solutions to identify the attack vectors (in the context of a 5G-core network) and to prevent an unauthorized user from entering or extracting data from the environment.
 
-**Doctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to March 2024**
+**Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to March 2024**
 - Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
 - He trained Neural Networks and Machine Learning models to achieve task-specific classifications with up to 87% Precision and Recall.
 - He employed LLMs and GPTs to induce artificial faults enabling up to 65% increased test effectiveness in detecting zero-day vulnerabilities.
