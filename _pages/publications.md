@@ -14,6 +14,7 @@ Selected Conference Papers
 * **"On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
 IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024
+[link](https://conf.researchr.org/details/icst-2024/icst-2024-papers/25/On-the-Coupling-between-Vulnerabilities-and-LLM-generated-Mutants-A-Study-on-Vul4J-d)
 [preprint](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf)
 [Github](https://github.com/garghub/VulnerabilityCouplingMutants)
 
@@ -56,16 +57,17 @@ IEEE Transactions on Software Engineering (TSE), 2021
 Papers Under Review
 -------------------
 
+* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
+**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
+(Under Review)
+[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
+
 * **"Vulnerability Mimicking Mutants."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
 (Under Review)
 [preprint](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
 [GitHub](https://github.com/garghub/mystique)
 
-* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
-**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
-(Under Review)
-[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
 
 Thesis
 -------
