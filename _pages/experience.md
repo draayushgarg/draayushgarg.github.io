@@ -24,7 +24,8 @@ Research & Development Experience
 - He also taught "Introduction to Software Testing" to [Bachelors in Applied Information Technology (BINFO)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology)
 - Lecture series (videos) on the "Introduction to Software Testing" are available [here](https://www.youtube.com/playlist?list=PL8NmkOh_MokYbFTRu6xzTJvLNAdOquGr9). The videos were uploaded to make lectures available to students during the COVID-19 lockdown period.
 
-**Member of the Program Committees & Academic Reviewer**
+**Journal/Conference Research Reviewer & Member of the Program Committees**
+- Member of the Program Committee at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
 - Member of the Program Committee at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
 - Reviewer at [IEEE Transactions on Software Engineering (TSE) Journal](https://www.computer.org/csdl/journal/ts) from August 2022 - Present
 - Reviewer at [Software Testing, Verification and Reliability (STVR) Journal](https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html) from December 2023 - Present
