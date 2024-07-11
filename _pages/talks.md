@@ -14,7 +14,7 @@ Yet to be updated here...
 Past Talks
 -
 
-**On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset**
+On **Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset**
 - Dr. Aayush Garg presented his [accepted research paper](https://conf.researchr.org/details/icst-2024/icst-2024-papers/25/On-the-Coupling-between-Vulnerabilities-and-LLM-generated-Mutants-A-Study-on-Vul4J-d) at the 17th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2024](https://conf.researchr.org/home/icst-2024)).
 - The presentation was held at York University, Toronto, Canada on 30th May 2024.
 
