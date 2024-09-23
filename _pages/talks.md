@@ -8,14 +8,19 @@ author_profile: true
 Upcoming Talks
 -
 
-Yet to be updated here...
+More to be updated here soon...
 
 
 Past Talks
 -
 
+On **Towards Secure Management of Edge-Cloud IoT Microservices using Policy as Code**
+- Dr. Aayush Garg presented the [accepted research paper](https://conf.researchr.org/details/ecsa-2024/ecsa-2024-research-papers/4/Towards-Secure-Management-of-Edge-Cloud-IoT-Microservices-using-Policy-as-Code) authored by Dr. Samodha Pallewatta and Prof. Dr. Muhammad Ali Babar at 18th European Conference on Software Architecture ([ECSA 2024](https://conf.researchr.org/home/ecsa-2024)).
+- The presentation was held at the Parc Hotel Alvisse, Luxembourg on 6th September 2024.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Towards Secure Management of Edge-Cloud IoT Microservices using Policy as Code” presented by Aayush Garg.<a href="https://twitter.com/hashtag/ECSA2024?src=hash&amp;ref_src=twsrc%5Etfw">#ECSA2024</a> <a href="https://twitter.com/hashtag/ECSA24?src=hash&amp;ref_src=twsrc%5Etfw">#ECSA24</a> <a href="https://t.co/h9t4ryJ7k0">pic.twitter.com/h9t4ryJ7k0</a></p>&mdash; ECSA 2024 (@ECSACONF) <a href="https://twitter.com/ECSACONF/status/1832043756410843345?ref_src=twsrc%5Etfw">September 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 On **Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset**
-- Dr. Aayush Garg presented his [accepted research paper](https://conf.researchr.org/details/icst-2024/icst-2024-papers/25/On-the-Coupling-between-Vulnerabilities-and-LLM-generated-Mutants-A-Study-on-Vul4J-d) at the 17th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2024](https://conf.researchr.org/home/icst-2024)).
+- Aayush presented his [accepted research paper](https://conf.researchr.org/details/icst-2024/icst-2024-papers/25/On-the-Coupling-between-Vulnerabilities-and-LLM-generated-Mutants-A-Study-on-Vul4J-d) at the 17th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2024](https://conf.researchr.org/home/icst-2024)).
 - The presentation was held at York University, Toronto, Canada on 30th May 2024.
 
 On **Enabling Efficient Assertion Inference**
