@@ -8,10 +8,10 @@ author_profile: true
 Upcoming Talks
 -
 
-More to be updated here soon...
+Just wanted to let you know that more to be updated here soon...
 
 
-Past Talks
+Recent Talks
 -
 
 On **Towards Secure Management of Edge-Cloud IoT Microservices using Policy as Code**
@@ -19,9 +19,14 @@ On **Towards Secure Management of Edge-Cloud IoT Microservices using Policy as C
 - The presentation was held at the Parc Hotel Alvisse, Luxembourg on 6th September 2024.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Towards Secure Management of Edge-Cloud IoT Microservices using Policy as Code” presented by Aayush Garg.<a href="https://twitter.com/hashtag/ECSA2024?src=hash&amp;ref_src=twsrc%5Etfw">#ECSA2024</a> <a href="https://twitter.com/hashtag/ECSA24?src=hash&amp;ref_src=twsrc%5Etfw">#ECSA24</a> <a href="https://t.co/h9t4ryJ7k0">pic.twitter.com/h9t4ryJ7k0</a></p>&mdash; ECSA 2024 (@ECSACONF) <a href="https://twitter.com/ECSACONF/status/1832043756410843345?ref_src=twsrc%5Etfw">September 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 On **Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset**
 - Aayush presented his [accepted research paper](https://conf.researchr.org/details/icst-2024/icst-2024-papers/25/On-the-Coupling-between-Vulnerabilities-and-LLM-generated-Mutants-A-Study-on-Vul4J-d) at the 17th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2024](https://conf.researchr.org/home/icst-2024)).
 - The presentation was held at York University, Toronto, Canada on 30th May 2024.
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7143226249639837696" height="1110" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+Past Talks
+-
 
 On **Enabling Efficient Assertion Inference**
 - Aayush presented his [accepted research paper](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a623/1RKjpdIxhkc) at the 34th IEEE International Symposium on Software Reliability Engineering ([ISSRE 2023](https://issre.github.io/2023)).
