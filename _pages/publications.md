@@ -14,8 +14,8 @@ Selected Conference Papers
 * **"On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
 IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024
-[link](https://conf.researchr.org/details/icst-2024/icst-2024-papers/25/On-the-Coupling-between-Vulnerabilities-and-LLM-generated-Mutants-A-Study-on-Vul4J-d)
-[preprint](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf)
+[link](https://doi.ieeecomputersociety.org/10.1109/ICST60714.2024.00035)
+[PDF](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf)
 [Github](https://github.com/garghub/VulnerabilityCouplingMutants)
 
 * **"Enabling Efficient Assertion Inference."**
