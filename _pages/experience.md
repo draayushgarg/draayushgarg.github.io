@@ -27,6 +27,7 @@ Research & Development Experience
 **Journal/Conference Research Reviewer & Member of the Program Committees**
 - Member of the Program Committee at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
 - Member of the Program Committee at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
+- Reviewer at [Automated Software Engineering Journal](https://link.springer.com/journal/10515) from September 2024 - Present
 - Reviewer at [International Journal of Information Security](https://link.springer.com/journal/10207) from September 2024 - Present
 - Reviewer at [Springer Scientific Reports](https://www.nature.com/srep) from May 2024 - Present
 - Reviewer at [Elsevier Computers & Security Journal](https://www.sciencedirect.com/journal/computers-and-security) from January 2024 - Present
