@@ -32,14 +32,14 @@ Research & Development Experience
 **Academic Research Reviewer**
 
 Aayush continues to serve as a reviewer for the below mentioned Academic Journals:
-- [Springer International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042) from October 2024 - Present
-- [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515) from September 2024 - Present
-- [Springer International Journal of Information Security](https://link.springer.com/journal/10207) from September 2024 - Present
-- [Springer Scientific Reports](https://www.nature.com/srep) from May 2024 - Present
-- [Elsevier Computers & Security Journal](https://www.sciencedirect.com/journal/computers-and-security) from January 2024 - Present
-- [Springer Software Quality Journal](https://link.springer.com/journal/11219) from December 2023 - Present
-- [Software Testing, Verification and Reliability (STVR) Journal](https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html) from December 2023 - Present
-- [IEEE Transactions on Software Engineering (TSE) Journal](https://www.computer.org/csdl/journal/ts) from August 2022 - Present
+- [Springer International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042) since October 2024
+- [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515) since September 2024
+- [Springer International Journal of Information Security](https://link.springer.com/journal/10207) since September 2024
+- [Springer Scientific Reports](https://www.nature.com/srep) since May 2024
+- [Elsevier Computers & Security Journal](https://www.sciencedirect.com/journal/computers-and-security) since January 2024
+- [Springer Software Quality Journal](https://link.springer.com/journal/11219) since December 2023
+- [Software Testing, Verification and Reliability (STVR) Journal](https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html) since December 2023
+- [IEEE Transactions on Software Engineering (TSE) Journal](https://www.computer.org/csdl/journal/ts) since August 2022
 
 
 Software Engineering & Development Experience
