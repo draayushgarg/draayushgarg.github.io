@@ -8,7 +8,7 @@ author_profile: true
 
 Research & Development Experience
 -
-**Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg since March 2024 (to Present)**
+**Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg since March 2024 (at present)**
 - Aayush is developing new methods by employing DL/LLMs to improve the security of SDLC by identifying software vulnerabilities.
 - He is employing AI solutions to prevent cyber attacks utilizing Fuzzers, by automatically detecting such attacks and by implementing software self-healing solutions focusing on automatically generating vulnerability patches.
 - He is developing automated solutions to identify the attack vectors (in the context of a 5G-core network) and to prevent an unauthorized user from entering or extracting data from the environment.
