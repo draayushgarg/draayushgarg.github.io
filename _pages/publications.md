@@ -57,6 +57,11 @@ IEEE Transactions on Software Engineering (TSE), 2021
 Papers Under Review
 -------------------
 
+* **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
+**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
+(Under Review at IEEE Transactions on Information Forensics & Security)
+[preprint](https://draayushgarg.github.io/files/PayloadAnalysisOfAdversariesTooling.pdf)
+
 * **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
 **Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
 (Under Review)
