@@ -19,7 +19,7 @@ IEEE International Conference on Software Testing, Verification and Validation (
 [Github](https://github.com/garghub/VulnerabilityCouplingMutants)
 
 * **"Enabling Efficient Assertion Inference."**
-Aayush Garg, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, and Yves Le Traon.
+**Aayush Garg**, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, and Yves Le Traon.
 IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
 [link](https://ieeexplore.ieee.org/document/10301231)
 [PDF](https://draayushgarg.github.io/files/Enabling_Efficient_Assertion_Inference.pdf)
