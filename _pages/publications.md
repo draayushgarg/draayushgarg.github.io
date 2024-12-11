@@ -5,8 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 For full list of publications check [Google Scholar](https://scholar.google.com/citations?user=UB0hgRAAAAAJ) 
 and [DBLP](https://dblp.org/pid/36/8488.html).
+
+
+Papers Under Review
+-------------------
+
+* **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
+**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
+(Under Review at IEEE Transactions on Information Forensics & Security)
+[preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1)
+[Github](https://github.com/garghub/fuzzing)
+
+* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
+**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
+(Under Review)
+[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
+
+* **"Vulnerability Mimicking Mutants."**
+**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
+(Under Review)
+[preprint](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
+[GitHub](https://github.com/garghub/mystique)
+
 
 Selected Conference Papers
 --------------------------
@@ -52,27 +75,6 @@ Empirical Software Engineering (EMSE), 2022
 IEEE Transactions on Software Engineering (TSE), 2021
 [link](https://doi.ieeecomputersociety.org/10.1109/TSE.2022.3140510)
 [Github](https://github.com/garghub/Cerebro)
-
-
-Papers Under Review
--------------------
-
-* **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
-**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
-(Under Review at IEEE Transactions on Information Forensics & Security)
-[preprint](https://draayushgarg.github.io/files/PayloadAnalysisOfAdversariesTooling.pdf)
-[Github](https://github.com/garghub/fuzzing)
-
-* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
-**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
-(Under Review)
-[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
-
-* **"Vulnerability Mimicking Mutants."**
-**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
-(Under Review)
-[preprint](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
-[GitHub](https://github.com/garghub/mystique)
 
 
 Thesis
