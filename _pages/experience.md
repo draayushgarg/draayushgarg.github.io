@@ -26,6 +26,7 @@ Research & Development Experience
 
 **Conference Track Chair & Program Committee Member**
 - Aayush is co-chairing the [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering) track at the [29th International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025](https://conf.researchr.org/home/ease-2025).
+- He is also serving as the Program Committee Member (and Reviewer) at the [34th International Symposium on Software Testing and Analysis (ISSTA 2025)](https://conf.researchr.org/home/issta-2025), [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
 - He served as the Program Committee Member (and Reviewer) at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
 - He was also a member of the Program Committee (and Reviewer) at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
 
