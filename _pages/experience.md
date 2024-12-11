@@ -33,6 +33,7 @@ Research & Development Experience
 **Academic Research Reviewer**
 
 Aayush continues to serve as a reviewer for the below mentioned Academic Journals:
+- [ACM Transactions on Software Engineering and Methodology (TOSEM) Journal](https://dl.acm.org/journal/tosem) since November 2024
 - [Springer International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042) since October 2024
 - [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515) since September 2024
 - [Springer International Journal of Information Security](https://link.springer.com/journal/10207) since September 2024
