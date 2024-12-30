@@ -13,22 +13,27 @@ and [DBLP](https://dblp.org/pid/36/8488.html).
 Papers Under Review
 -------------------
 
+* **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**
+Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
+(Under Review at the 30th European Symposium on Research in Computer Security (ESORICS) 2025)
+[preprint](https://draayushgarg.github.io/files/Evaluating_Pre-Trained_Models_for_Multi-Language_Vulnerability_Patching.pdf)
+
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
 **Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
 (Under Review at IEEE Transactions on Information Forensics & Security)
 [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1)
 [Github](https://github.com/garghub/fuzzing)
 
-* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
-**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
-(Under Review)
-[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
-
 * **"Vulnerability Mimicking Mutants."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
 (Under Review)
 [preprint](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
 [GitHub](https://github.com/garghub/mystique)
+
+* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**
+**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.
+(Under Review)
+[preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
 
 
 Selected Conference Papers
