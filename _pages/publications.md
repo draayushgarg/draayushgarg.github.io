@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-For full list of publications check [Google Scholar](https://scholar.google.com/citations?user=UB0hgRAAAAAJ) 
+For a full list of publications check [Google Scholar](https://scholar.google.com/citations?user=UB0hgRAAAAAJ) 
 and [DBLP](https://dblp.org/pid/36/8488.html).
 
 
@@ -16,7 +16,7 @@ Papers Under Review
 * **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**
 Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
 (Under Review at the 30th European Symposium on Research in Computer Security (ESORICS) 2025)
-[preprint](https://draayushgarg.github.io/files/Evaluating_Pre-Trained_Models_for_Multi-Language_Vulnerability_Patching.pdf)
+[preprint](https://doi.org/10.48550/arXiv.2501.07339)
 
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
 **Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
