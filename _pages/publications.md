@@ -63,6 +63,11 @@ ACM/IEEE International Conference on Automation of Software Test (AST), 2023
 Selected Journal Papers
 ------------------------
 
+* **"AI-Driven Software Security: Vulnerability Detection, Patching, and Anti-Fuzzing."**
+**Aayush Garg**, Yuejun Guo, Qiang Tang.
+ERCIM (The European Research Consortium for Informatics and Mathematics) News
+[link](https://ercim-news.ercim.eu/en139/special/ai-driven-software-security-vulnerability-detection-patching-and-anti-fuzzing)
+
 * **"Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies."**
 Milos Ojdanic, **Aayush Garg**, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.
 IEEE Transactions on Software Engineering Journal (TSE), 2023
