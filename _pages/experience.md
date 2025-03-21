@@ -9,11 +9,13 @@ author_profile: true
 Research & Development Experience
 -
 **Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg since March 2024 (at present)**
-- Aayush is developing new methods by employing DL/LLMs to improve the security of SDLC by identifying software vulnerabilities.
-- He is employing AI solutions to prevent cyber attacks utilizing Fuzzers, by automatically detecting such attacks and by implementing software self-healing solutions focusing on automatically generating vulnerability patches.
-- He is developing automated solutions to identify the attack vectors (in the context of a 5G-core network) and to prevent an unauthorized user from entering or extracting data from the environment.
+- Aayush continues to develop new methods employing Artificial Intelligence (AI) to improve software security by focusing on software vulnerabilities, both real (existing) and artificial.
+- He is exploring the capabilities of Large Language Models (LLM) in implementing software self-healing focusing on automatically generating source code patching vulnerabilities.
+- Aayush is designing a semi-automated framework to transform real-world threat intelligence into executable cyber range scenarios, with the goal of delivering realistic, threat-informed, and role-specific cybersecurity training exercises.
+- He is developing automated solutions to identify the attack vectors (in the context of a 5G-core network) in order to prevent unauthorized entrance and/or extraction of telecom data.
+- He employed Deep Learning (DL), primarily Transformers architecture to automatically identify API fuzzing attack patterns, in order to tackle cyber attacks utilizing Fuzzing.
 
-**Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to March 2024**
+**Doctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to March 2024**
 - Aayush designed solutions harnessing AI, especially Deep Learning to automatically define and learn features from source code representation replacing 100% manual effort.
 - He trained Neural Networks and Machine Learning models to achieve task-specific classifications with up to 87% Precision and Recall.
 - He employed LLMs and GPTs to induce artificial faults enabling up to 65% increased test effectiveness in detecting zero-day vulnerabilities.
@@ -25,7 +27,8 @@ Research & Development Experience
 - Lecture series (videos) on the "Introduction to Software Testing" are available [here](https://www.youtube.com/playlist?list=PL8NmkOh_MokYbFTRu6xzTJvLNAdOquGr9). The videos were uploaded to make lectures available to students during the COVID-19 lockdown period.
 
 **Conference Track Chair & Program Committee Member**
-- Aayush is co-chairing the [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering) track at the [29th International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025](https://conf.researchr.org/home/ease-2025).
+- He is serving as the Program Committee Member (and Reviewer) at the [40th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025](https://conf.researchr.org/home/ase-2025), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
+- Aayush is serving as the **Co-Chair** of the [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering) track at the [29th International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025](https://conf.researchr.org/home/ease-2025).
 - He is also serving as the Program Committee Member (and Reviewer) at the [34th International Symposium on Software Testing and Analysis (ISSTA 2025)](https://conf.researchr.org/home/issta-2025), [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
 - He served as the Program Committee Member (and Reviewer) at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
 - He was also a member of the Program Committee (and Reviewer) at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
