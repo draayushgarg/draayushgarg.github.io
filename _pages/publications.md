@@ -15,12 +15,12 @@ Papers Under Review
 
 * **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**
 Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
-(Under Review at the 30th European Symposium on Research in Computer Security (ESORICS) 2025)
+(Under Review)
 [preprint](https://doi.org/10.48550/arXiv.2501.07339)
 
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
 **Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
-(Under Review at IEEE Transactions on Information Forensics & Security)
+(Under Review)
 [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1)
 [Github](https://github.com/garghub/fuzzing)
 
