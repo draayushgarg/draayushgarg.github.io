@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Aayush Garg is a Researcher with a PhD in Computer Science. Currently, he is working as a Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu). Previously, he worked as a Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu). Aayush has dedicated over 5 years to Security Testing & AI research and committed more than 7 years to Industrial Software Development & QA. He has demonstrated proficiency in propelling 17+ innovative projects.
+Dr. Aayush Garg is a Researcher with a PhD in Computer Science. Currently, he is working as a Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu). Previously, he worked as a Doctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu). Aayush has dedicated over 5 years to Security Testing & AI research and committed more than 7 years to Industrial Software Development & QA. He has demonstrated proficiency in propelling 17+ innovative projects.
 
 
 Research Interests
