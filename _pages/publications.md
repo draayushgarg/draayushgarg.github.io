@@ -13,6 +13,12 @@ and [DBLP](https://dblp.org/pid/36/8488.html).
 Papers Under Review
 -------------------
 
+* **Benchmarking Large Language Models for patching original and artificial software vulnerabilities**
+Submitted to a peer-reviewed software engineering conference (under double-blind review)
+
+* **Assessing the Robustness of Pre-trained Models in Multi-language Vulnerability Patching**
+Submitted to a peer-reviewed software engineering conference (under double-blind review)
+
 * **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**
 Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
 (Under Review)
