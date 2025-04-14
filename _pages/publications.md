@@ -19,16 +19,16 @@ Submitted to a peer-reviewed software engineering conference (Under double-blind
 * **Dataset-Driven Study of Fine-Tuned LLMs for Security Bug Fixing Across Languages**
 Submitted to a peer-reviewed software engineering conference (Under double-blind review, title changed)
 
-* **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**
-Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
-(Under Review)
-[preprint](https://doi.org/10.48550/arXiv.2501.07339)
-
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
 **Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
 (Under Review)
 [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1)
 [Github](https://github.com/garghub/fuzzing)
+
+* **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**
+Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
+(Under Review)
+[preprint](https://doi.org/10.48550/arXiv.2501.07339)
 
 * **"Vulnerability Mimicking Mutants."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
