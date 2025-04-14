@@ -6,7 +6,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-Research & Development Experience
+Research Experience
 -
 **Postdoctoral Researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg since March 2024 (at present)**
 - Aayush continues to develop new methods employing Artificial Intelligence (AI) to improve software security by focusing on software vulnerabilities, both real (existing) and artificial.
@@ -47,7 +47,7 @@ Aayush continues to serve as a reviewer for the below mentioned Academic Journal
 - [IEEE Transactions on Software Engineering (TSE) Journal](https://www.computer.org/csdl/journal/ts) since August 2022
 
 
-Software Engineering & Development Experience
+Software Engineering Experience
 -
 **Senior Software Engineer at [Futures First](https://futuresfirst.com), India from September 2014 to February 2017**
 - Aayush developed multi-threaded Windows applications to process and display prices and trade updates of invested stocks with a 3-second refresh rate.
