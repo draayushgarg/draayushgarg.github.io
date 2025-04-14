@@ -33,7 +33,7 @@ Research Experience
 - He served as the Program Committee Member (and Reviewer) at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
 - He was also a member of the Program Committee (and Reviewer) at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
 
-**Academic Research Reviewer**
+**Peer Reviewer (Journals)**
 
 Aayush continues to serve as a reviewer for the below mentioned Academic Journals:
 - [ACM Transactions on Software Engineering and Methodology (TOSEM) Journal](https://dl.acm.org/journal/tosem) since November 2024
