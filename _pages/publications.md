@@ -16,9 +16,6 @@ Papers Under Review
 * **Benchmarking Large Language Models for patching artificial software vulnerabilities**
 Submitted to a peer-reviewed software engineering conference (Under double-blind review, title changed)
 
-* **Dataset-Driven Study of Fine-Tuned LLMs for Security Bug Fixing Across Languages**
-Submitted to a peer-reviewed software engineering conference (Under double-blind review, title changed)
-
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**
 **Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang.
 (Under Review)
@@ -44,6 +41,13 @@ Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.
 
 Selected Conference Papers
 --------------------------
+
+* **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**
+Zanis Ali Khan, **Aayush Garg**, and Qiang Tang.
+ARES 2025 - AI&CCPS: International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security
+[Preprint](https://draayushgarg.github.io/files/A_Multi_Dataset_Evaluation_of_Models_for_Automated_Vulnerability_Repair.pdf)
+[link (soon)]
+[Zenodo (soon)]
 
 * **"On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
