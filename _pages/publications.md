@@ -46,8 +46,6 @@ Selected Conference Papers
 Zanis Ali Khan, **Aayush Garg**, and Qiang Tang.
 International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security (AI&CCPS), ARES 2025
 [Preprint](https://draayushgarg.github.io/files/A_Multi_Dataset_Evaluation_of_Models_for_Automated_Vulnerability_Repair.pdf)
-[link (soon)]()
-[GitHub/Zenodo (soon)]()
 
 * **"On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset."**
 **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.
