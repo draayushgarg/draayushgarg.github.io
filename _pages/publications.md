@@ -44,7 +44,7 @@ Selected Conference Papers
 
 * **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**
 Zanis Ali Khan, **Aayush Garg**, and Qiang Tang.
-International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security (AI&CCPS), ARES 2025
+International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security (AI&CCPS) ARES, 2025
 [Preprint](https://draayushgarg.github.io/files/A_Multi_Dataset_Evaluation_of_Models_for_Automated_Vulnerability_Repair.pdf)
 
 * **"On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset."**
@@ -73,7 +73,7 @@ Selected Journal Papers
 
 * **"AI-Driven Software Security: Vulnerability Detection, Patching, and Anti-Fuzzing."**
 **Aayush Garg**, Yuejun Guo, Qiang Tang.
-ERCIM (The European Research Consortium for Informatics and Mathematics) News
+The 139th European Research Consortium for Informatics and Mathematics (ERCIM) News, Special Theme: Software Security, 2024
 [link](https://ercim-news.ercim.eu/en139/special/ai-driven-software-security-vulnerability-detection-patching-and-anti-fuzzing)
 
 * **"Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies."**
