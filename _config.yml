@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Aayush Garg"
 title_separator          : "-"
 name                     : &name "Aayush Garg"
-description              : &description Researcher in Computer Science, primarily Software Security and AI
+description              : &description Researcher in Computer Science, primarily Cybersecurity and AI
 url                      : https://draayushgarg.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://draayushgarg.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Aayush Garg"
   avatar           : "profile.png" 
-  bio              : "Researcher in Computer Science, primarily Software Security and AI"
+  bio              : "Researcher in Computer Science, primarily Cybersecurity and AI"
   location         : Luxembourg, Europe
   employer         : 
   pubmed           : 
