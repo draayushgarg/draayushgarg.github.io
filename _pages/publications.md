@@ -14,7 +14,7 @@ Papers Under Review
 -------------------
 
 * **A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution.pdf.** 
-**Aayush Garg**\*, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth. **Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and Sudipta Chattopadhyay. 
+**Aayush Garg**\*, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth.  
 (Under Review)
 [preprint](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
 
