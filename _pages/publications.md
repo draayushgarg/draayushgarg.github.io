@@ -30,11 +30,11 @@ Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang.<br>
 Under review. [preprint](https://doi.org/10.48550/arXiv.2501.07339)
 
 * **"Vulnerability Mimicking Mutants."**<br>
-**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.<br>
+**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.<br>
 Under review. [preprint](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
 
 * **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**<br>
-**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.<br>
+**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.<br>
 Under review. [preprint](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
 
 
@@ -42,22 +42,22 @@ Selected Conference Papers
 --------------------------
 
 * **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**<br>
-Zanis Ali Khan, **Aayush Garg**, and Qiang Tang.<br>
+Zanis Ali Khan, **Aayush Garg**, Qiang Tang.<br>
 International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security (AI&CCPS) ARES, 2025<br>
 [link](https://doi.org/10.1007/978-3-032-00630-1_5)
 
 * **"On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset."**<br>
-**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.<br>
+**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.<br>
 IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024<br>
 [link](https://doi.ieeecomputersociety.org/10.1109/ICST60714.2024.00035) [PDF](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf) [Github](https://github.com/garghub/VulnerabilityCouplingMutants)
 
 * **"Enabling Efficient Assertion Inference."**<br>
-**Aayush Garg**, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, and Yves Le Traon.<br>
+**Aayush Garg**, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, Yves Le Traon.<br>
 IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023<br>
 [link](https://ieeexplore.ieee.org/document/10301231) [PDF](https://draayushgarg.github.io/files/Enabling_Efficient_Assertion_Inference.pdf) [Github](https://github.com/garghub/seeker)
 
 * **"On Comparing Mutation Testing Tools through Learning-based Mutant Selection."**<br>
-Milos Ojdanic, Ahmed Khanfir, **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon.<br>
+Milos Ojdanic, Ahmed Khanfir, **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.<br>
 ACM/IEEE International Conference on Automation of Software Test (AST), 2023<br>
 [link](https://ieeexplore.ieee.org/document/10173980) [PDF](https://draayushgarg.github.io/files/OnComparingMutationTestingToolsThroughLearning-basedMutantSelection.pdf) [Github](https://github.com/serval-uni-lu/The_dataset_of_large_case_studies_on_mutants_similarity_with_bugs)
 
@@ -75,12 +75,12 @@ IEEE Transactions on Software Engineering Journal (TSE), 2023<br>
 [link](https://ieeexplore.ieee.org/document/10136793) [Github](https://github.com/serval-uni-lu/The_dataset_of_large_case_studies_on_mutants_similarity_with_bugs)
 
 * **"Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data."**<br>
-**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, and Yves Le Traon.<br>
+**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.<br>
 Empirical Software Engineering (EMSE), 2022<br>
 [link](https://link.springer.com/article/10.1007/s10664-022-10197-4) [Github](https://github.com/garghub/TROVON)
 
 * **"Cerebro: Static subsuming mutant selection."**<br>
-**Aayush Garg**, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon.<br>
+**Aayush Garg**, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis Yves Le Traon.<br>
 IEEE Transactions on Software Engineering (TSE), 2021<br>
 [link](https://doi.ieeecomputersociety.org/10.1109/TSE.2022.3140510) [Github](https://github.com/garghub/Cerebro)
 
