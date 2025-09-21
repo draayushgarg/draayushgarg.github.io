@@ -13,9 +13,9 @@ and [DBLP](https://dblp.org/pid/36/8488.html).
 Papers Under Review
 -------------------
 
-* **A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution.pdf.** 
-**Aayush Garg**\*, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth.  
-(Under Review)
+* **A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution.pdf.**<br>
+**Aayush Garg**\*, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth.<br>
+Under review.
 [preprint](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
 
 * **Benchmarking Large Language Models for patching artificial software vulnerabilities**
