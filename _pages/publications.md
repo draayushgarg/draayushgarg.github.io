@@ -17,10 +17,6 @@ Papers Under Review
 _**Aayush Garg**, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth._<br>
 Under review. [link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
 
-* **"Benchmarking Large Language Models for patching artificial software vulnerabilities"**<br>
-_**Aayush Garg**, Author 2, Author 3, Author 4._<br>
-Under double-blind review. Title changed. Co-authors anonymized.
-
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**<br>
 _**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
 Under review. [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1) [Github](https://github.com/garghub/fuzzing)
@@ -40,6 +36,11 @@ Under review. [link](https://www.researchgate.net/publication/347624212_Learning
 
 Selected Conference Papers
 --------------------------
+
+* **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities"**<br>
+_**Aayush Garg**, Zanis Ali Khan, Renzo Degiovanni, Qiang Tang._<br>
+ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering - Building AI and Building with AI (SEAI)~2026<br>
+[Preprint PDF](https://draayushgarg.github.io/files/Evaluating_LLMs_for_One_Shot_Patching_of_Real_and_Artificial_Vulnerabilities.pdf)
 
 * **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Qiang Tang._<br>
