@@ -21,10 +21,6 @@ Under review. [link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [P
 _**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
 Under review. [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1) [Github](https://github.com/garghub/fuzzing)
 
-* **"Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching."**<br>
-_Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
-Under review. [preprint](https://doi.org/10.48550/arXiv.2501.07339)
-
 * **"Vulnerability Mimicking Mutants."**<br>
 _**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
 Under review. [link](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
@@ -37,10 +33,15 @@ Under review. [link](https://www.researchgate.net/publication/347624212_Learning
 Selected Conference Papers
 --------------------------
 
-* **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities"**<br>
+* **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities."**<br>
 _**Aayush Garg**, Zanis Ali Khan, Renzo Degiovanni, Qiang Tang._<br>
 ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering - Building AI and Building with AI (SEAI)~2026<br>
 [Preprint PDF](https://draayushgarg.github.io/files/Evaluating_LLMs_for_One_Shot_Patching_of_Real_and_Artificial_Vulnerabilities.pdf)
+
+* **"Evaluation of Multi-Language Vulnerability Patching with Pre-Trained Models."**<br>
+_Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
+ACM/SIGAPP Symposium on Applied Computing (SAC) Computer Security (SEC)~2026<br>
+[Preprint PDF](https://draayushgarg.github.io/files/Evaluation_of_Multi_Language_Vulnerability_Patching_with_Pre_Trained_Models.pdf)
 
 * **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Qiang Tang._<br>
