@@ -36,7 +36,7 @@ Selected Conference Papers
 * **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities."**<br>
 _**Aayush Garg**, Zanis Ali Khan, Renzo Degiovanni, Qiang Tang._<br>
 ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering - Building AI and Building with AI (SEAI) 2026<br>
-[Preprint PDF](https://draayushgarg.github.io/files/Evaluating_LLMs_for_One_Shot_Patching_of_Real_and_Artificial_Vulnerabilities.pdf)
+[Preprint](https://arxiv.org/abs/2511.23408)
 
 * **"Evaluation of Multi-Language Vulnerability Patching with Pre-Trained Models."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
