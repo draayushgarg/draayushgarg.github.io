@@ -27,16 +27,22 @@ Research Experience
 - Lecture series (videos) on the "Introduction to Software Testing" are available [here](https://www.youtube.com/playlist?list=PL8NmkOh_MokYbFTRu6xzTJvLNAdOquGr9). The videos were uploaded to make lectures available to students during the COVID-19 lockdown period.
 
 **Conference Track Chair & Program Committee Member**
-- Aayush served as the **Co-Chair** of the [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering) track at the [29th International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025](https://conf.researchr.org/home/ease-2025).
-- He is serving as the Program Committee Member (and Reviewer) at the [40th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025](https://conf.researchr.org/home/ase-2025), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
-- He served as the Program Committee Member (and Reviewer) at the [34th International Symposium on Software Testing and Analysis (ISSTA 2025)](https://conf.researchr.org/home/issta-2025), [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
-- Aayush is also serving as the Program Committee Member (and Reviewer) at the [Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)](https://pricai.org/2025), Research Track.
-- He served as the Program Committee Member (and Reviewer) at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
-- He was also a member of the Program Committee (and Reviewer) at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
+
+Aayush served/is serving as the Chair/Program Committee Member/Reviewer for the following Conference tracks:
+- Program Committee Member (and Reviewer) at the [42nd International Conference on Software Maintenance and Evolution (ICSME) 2026](https://conf.researchr.org/home/icsme-2026), [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track).
+- Program Committee Member (and Reviewer) at the [42nd International Conference on Software Maintenance and Evolution (ICSME) 2026](https://conf.researchr.org/home/icsme-2026), [Visions and Emerging Results Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier).
+- Program Committee Member (and Reviewer) at the [40th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025](https://conf.researchr.org/home/ase-2025), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
+- **Co-Chair** of the [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering) track at the [29th International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025](https://conf.researchr.org/home/ease-2025).
+- Program Committee Member (and Reviewer) at the [40th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025](https://conf.researchr.org/home/ase-2025), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
+- Program Committee Member (and Reviewer) at the [34th International Symposium on Software Testing and Analysis (ISSTA 2025)](https://conf.researchr.org/home/issta-2025), [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
+- Program Committee Member (and Reviewer) at the [Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)](https://pricai.org/2025), Research Track.
+- Program Committee Member (and Reviewer) at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
+- Program Committee (and Reviewer) at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
 
 **Peer Reviewer (Journals)**
 
-Aayush continues to serve as a reviewer for the below mentioned Academic Journals:
+Aayush continues to serve as a reviewer for the following Academic Journals:
+- [SpringerNature Empirical Software Engineering (EMSE) Journal](https://link.springer.com/journal/10664) since October 2025
 - [ACM Transactions on Software Engineering and Methodology (TOSEM) Journal](https://dl.acm.org/journal/tosem) since November 2024
 - [Springer International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042) since October 2024
 - [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515) since September 2024
