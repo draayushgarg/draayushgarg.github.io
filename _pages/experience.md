@@ -12,7 +12,8 @@ Research Experience
 - Aayush continues to develop new methods employing Artificial Intelligence (AI) to improve software security by focusing on software vulnerabilities, both real (existing) and synthetically generated.
 - He is exploring the capabilities of Large Language Models (LLMs) in implementing software self-healing, focusing on automatically generating source code patching vulnerabilities.
 - He is developing automated solutions to identify the attack vectors (in the context of a 5G-core network) to prevent unauthorized entrance and extraction of telecom data.
-- He employed Deep Learning (DL), primarily Transformers architecture, to automatically identify API fuzzing attack patterns, in order to tackle cyber attacks utilizing Fuzzing.
+- Aayush employed Deep Learning (DL), primarily Transformers architecture, to automatically identify API fuzzing attack patterns, in order to tackle cyber attacks utilizing Fuzzing.
+- He is developing automated assurance techniques to ensure the quality of Generative AI-enabled educational activities.
 - Aayush is designing a semi-automated framework to transform real-world threat intelligence into executable cyber range scenarios, with the goal of delivering realistic, threat-informed, and role-specific cybersecurity training exercises.
 
 **Doctoral Researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt), [University of Luxembourg](https://www.uni.lu), Luxembourg from July 2019 to March 2024**
