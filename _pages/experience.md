@@ -42,7 +42,7 @@ Aayush served/is serving as the Chair/Program Committee Member/Reviewer for the 
 **Peer Reviewer (Journals)**
 
 Aayush continues to serve as a reviewer for the following Academic Journals:
-- [SpringerNature Empirical Software Engineering (EMSE) Journal](https://link.springer.com/journal/10664) since October 2025
+- [Springer Nature Empirical Software Engineering (EMSE) Journal](https://link.springer.com/journal/10664) since October 2025
 - [ACM Transactions on Software Engineering and Methodology (TOSEM) Journal](https://dl.acm.org/journal/tosem) since November 2024
 - [Springer International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042) since October 2024
 - [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515) since September 2024
