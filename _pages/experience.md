@@ -6,6 +6,11 @@ permalink: /experience/
 author_profile: true
 ---
 
+Fellowships & Funding
+-
+**ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Reserve list (score above funding threshold)**
+
+
 Research Experience
 -
 **Scientist (Research and Technology) at the [Luxembourg Institute of Science and Technology](https://www.list.lu), Luxembourg since March 2024 (at present)**
