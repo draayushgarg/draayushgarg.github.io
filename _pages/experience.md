@@ -8,7 +8,7 @@ author_profile: true
 
 Fellowships & Funding
 -
-**ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Reserve list (final score: 0.8/1.0 = 80%; above funding threshold)**
+**ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Reserve list (final score: 0.8/1.0; above funding threshold)**
 
 
 Research Experience
