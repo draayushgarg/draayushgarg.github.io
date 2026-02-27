@@ -81,16 +81,16 @@ Preprints
 
 * **"A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution."**<br>
 _**Aayush Garg**, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth._<br>
-Under review. [link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
+[link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
 
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**<br>
 _**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
-Under review. [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1) [Github](https://github.com/garghub/fuzzing)
+[preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1) [Github](https://github.com/garghub/fuzzing)
 
 * **"Vulnerability Mimicking Mutants."**<br>
 _**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
-Under review. [link](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
+[link](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
 
 * **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**<br>
 _**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon._<br>
-Under review. [link](https://www.researchgate.net/publication/347624212_Learning_To_Predict_Vulnerabilities_From_Vulnerability-Fixes_A_Machine_Translation_Approach) [PDF](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
+[link](https://www.researchgate.net/publication/347624212_Learning_To_Predict_Vulnerabilities_From_Vulnerability-Fixes_A_Machine_Translation_Approach) [PDF](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
