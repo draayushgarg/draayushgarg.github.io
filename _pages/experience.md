@@ -35,6 +35,8 @@ Research Experience
 **Conference Track Chair & Program Committee Member**
 
 Aayush served/is serving as the Chair/Program Committee Member/Reviewer for the following Conference tracks:
+- Program Committee Member (and Reviewer) at the [41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)](https://conf.researchr.org/home/ase-2026), [Industry Showcase Track](https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase).
+- Program Committee Member (and Reviewer) at the [19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)](https://conf.researchr.org/home/icst-2026), [Mutation 2026 Workshop](https://conf.researchr.org/home/icst-2026/mutation-2026).
 - Program Committee Member (and Reviewer) at the [42nd International Conference on Software Maintenance and Evolution (ICSME) 2026](https://conf.researchr.org/home/icsme-2026), [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track).
 - Program Committee Member (and Reviewer) at the [42nd International Conference on Software Maintenance and Evolution (ICSME) 2026](https://conf.researchr.org/home/icsme-2026), [Visions and Emerging Results Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier).
 - Program Committee Member (and Reviewer) at the [40th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025](https://conf.researchr.org/home/ase-2025), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
