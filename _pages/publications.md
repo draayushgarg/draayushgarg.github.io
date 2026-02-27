@@ -10,27 +10,7 @@ For a full list of publications check [Google Scholar](https://scholar.google.co
 and [DBLP](https://dblp.org/pid/36/8488.html).
 
 
-Papers Under Review
--------------------
-
-* **"A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution."**<br>
-_**Aayush Garg**, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth._<br>
-Under review. [link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
-
-* **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**<br>
-_**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
-Under review. [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1) [Github](https://github.com/garghub/fuzzing)
-
-* **"Vulnerability Mimicking Mutants."**<br>
-_**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
-Under review. [link](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
-
-* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**<br>
-_**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon._<br>
-Under review. [link](https://www.researchgate.net/publication/347624212_Learning_To_Predict_Vulnerabilities_From_Vulnerability-Fixes_A_Machine_Translation_Approach) [PDF](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
-
-
-Selected Conference Papers
+Published Conference Papers
 --------------------------
 
 * **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities."**<br>
@@ -63,7 +43,7 @@ _Milos Ojdanic, Ahmed Khanfir, **Aayush Garg**, Renzo Degiovanni, Mike Papadakis
 ACM/IEEE International Conference on Automation of Software Test (AST), 2023<br>
 [link](https://ieeexplore.ieee.org/document/10173980) [PDF](https://draayushgarg.github.io/files/OnComparingMutationTestingToolsThroughLearning-basedMutantSelection.pdf) [Github](https://github.com/serval-uni-lu/The_dataset_of_large_case_studies_on_mutants_similarity_with_bugs)
 
-Selected Journal Papers
+Published Journal Papers
 ------------------------
 
 * **"AI-Driven Software Security: Vulnerability Detection, Patching, and Anti-Fuzzing."**<br>
@@ -89,7 +69,28 @@ IEEE Transactions on Software Engineering (TSE), 2021<br>
 
 Thesis
 -------
+
 * **"Guiding Quality Assurance Through Context Aware Learning."**<br>
 _**Aayush Garg**._<br>
 PhD Dissertation (2023), University of Luxembourg.<br>
 [link](https://orbilu.uni.lu/handle/10993/55042)
+
+
+Preprints
+-------------------
+
+* **"A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution."**<br>
+_**Aayush Garg**, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth._<br>
+Under review. [link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
+
+* **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**<br>
+_**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
+Under review. [preprint](https://doi.org/10.36227/techrxiv.173385946.65994728/v1) [Github](https://github.com/garghub/fuzzing)
+
+* **"Vulnerability Mimicking Mutants."**<br>
+_**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
+Under review. [link](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
+
+* **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**<br>
+_**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon._<br>
+Under review. [link](https://www.researchgate.net/publication/347624212_Learning_To_Predict_Vulnerabilities_From_Vulnerability-Fixes_A_Machine_Translation_Approach) [PDF](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
