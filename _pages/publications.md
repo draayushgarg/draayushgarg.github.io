@@ -79,6 +79,10 @@ PhD Dissertation (2023), University of Luxembourg.<br>
 Preprints
 -------------------
 
+* **"Unsupervised Cross-Protocol Anomaly Analysis in Mobile Core Networks via Multi-Embedding Models Consensus."**<br>
+_**Aayush Garg**, Orlando Amaral Cejas._<br>
+[preprint](https://doi.org/10.48550/arXiv.2603.15344)
+
 * **"A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution."**<br>
 _**Aayush Garg**, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth._<br>
 [link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
