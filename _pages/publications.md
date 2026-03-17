@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-For a full list of publications check [Google Scholar](https://scholar.google.com/citations?user=UB0hgRAAAAAJ) 
+For a full list of publications, please check [Google Scholar](https://scholar.google.com/citations?user=UB0hgRAAAAAJ) 
 and [DBLP](https://dblp.org/pid/36/8488.html).
 
 
-Published Conference Papers
+Publications
 --------------------------
 
 * **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities."**<br>
@@ -21,7 +21,7 @@ ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering - Building A
 * **"Evaluation of Multi-Language Vulnerability Patching with Pre-Trained Models."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
 ACM/SIGAPP Symposium on Applied Computing (SAC) Computer Security (SEC) 2026<br>
-[Preprint PDF](https://draayushgarg.github.io/files/Evaluation_of_Multi_Language_Vulnerability_Patching_with_Pre_Trained_Models.pdf)
+[PDF](https://draayushgarg.github.io/files/Evaluation_of_Multi_Language_Vulnerability_Patching_with_Pre_Trained_Models.pdf) [arXiv](https://doi.org/10.48550/arXiv.2501.07339)
 
 * **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Qiang Tang._<br>
@@ -33,6 +33,11 @@ _**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
 IEEE International Conference on Software Testing, Verification and Validation (ICST), 2024<br>
 [link](https://doi.ieeecomputersociety.org/10.1109/ICST60714.2024.00035) [PDF](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf) [Github](https://github.com/garghub/VulnerabilityCouplingMutants)
 
+* **"AI-Driven Software Security: Vulnerability Detection, Patching, and Anti-Fuzzing."**<br>
+_**Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
+The 139th European Research Consortium for Informatics and Mathematics (ERCIM) News, Special Theme: Software Security, 2024<br>
+[link](https://ercim-news.ercim.eu/en139/special/ai-driven-software-security-vulnerability-detection-patching-and-anti-fuzzing)
+
 * **"Enabling Efficient Assertion Inference."**<br>
 _**Aayush Garg**, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, Yves Le Traon._<br>
 IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023<br>
@@ -42,14 +47,6 @@ IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023<b
 _Milos Ojdanic, Ahmed Khanfir, **Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
 ACM/IEEE International Conference on Automation of Software Test (AST), 2023<br>
 [link](https://ieeexplore.ieee.org/document/10173980) [PDF](https://draayushgarg.github.io/files/OnComparingMutationTestingToolsThroughLearning-basedMutantSelection.pdf) [Github](https://github.com/serval-uni-lu/The_dataset_of_large_case_studies_on_mutants_similarity_with_bugs)
-
-Published Journal Papers
-------------------------
-
-* **"AI-Driven Software Security: Vulnerability Detection, Patching, and Anti-Fuzzing."**<br>
-_**Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
-The 139th European Research Consortium for Informatics and Mathematics (ERCIM) News, Special Theme: Software Security, 2024<br>
-[link](https://ercim-news.ercim.eu/en139/special/ai-driven-software-security-vulnerability-detection-patching-and-anti-fuzzing)
 
 * **"Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies."**<br>
 _Milos Ojdanic, **Aayush Garg**, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
@@ -85,7 +82,7 @@ _**Aayush Garg**, Orlando Amaral Cejas._<br>
 
 * **"A Survey of Cyber Range Training Exercise Scenario Description Generation and Execution."**<br>
 _**Aayush Garg**, Abdelwahab Boualouache, Adnan Imeri, Uwe Roth._<br>
-[link](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
+[preprint](https://doi.org/10.36227/techrxiv.175942879.94813577/v1) [PDF](https://draayushgarg.github.io/files/A_Survey_of_Cyber_Range_Training_Exercise_Scenario_Description_Generation_and_Execution.pdf)
 
 * **"Payload Analysis of Adversaries' Tooling: Automated Identification of Fuzzers."**<br>
 _**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
@@ -93,8 +90,8 @@ _**Aayush Garg**, Constantinos Patsakis, Zanis Ali Khan, Qiang Tang._<br>
 
 * **"Vulnerability Mimicking Mutants."**<br>
 _**Aayush Garg**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon._<br>
-[link](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
+[preprint](https://www.researchgate.net/publication/369090412_Vulnerability_Mimicking_Mutants) [PDF](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf) [GitHub](https://github.com/garghub/mystique)
 
 * **"Learning to predict vulnerabilities from vulnerability-fixes: A machine translation approach."**<br>
 _**Aayush Garg**, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon._<br>
-[link](https://www.researchgate.net/publication/347624212_Learning_To_Predict_Vulnerabilities_From_Vulnerability-Fixes_A_Machine_Translation_Approach) [PDF](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
+[preprint](https://www.researchgate.net/publication/347624212_Learning_To_Predict_Vulnerabilities_From_Vulnerability-Fixes_A_Machine_Translation_Approach) [PDF](https://draayushgarg.github.io/files/LearningToPredictVulnerabilitiesFromVulnerability-Fixes_AMachineTranslationApproach.pdf)
