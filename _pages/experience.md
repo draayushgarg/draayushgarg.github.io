@@ -6,7 +6,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-Fellowships & Funding
+Distinction/Award
 -
 **ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Above funding threshold score: 0.8/1.0**
 
