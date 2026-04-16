@@ -8,7 +8,7 @@ author_profile: true
 
 Fellowships & Funding
 -
-**ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Reserve list (final score: 0.8/1.0; above funding threshold)**
+**ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Above funding threshold score: 0.8/1.0**
 
 
 Research Experience
@@ -32,19 +32,23 @@ Research Experience
 - He also taught "Introduction to Software Testing" to [Bachelors in Applied Information Technology (BINFO)](https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology)
 - Lecture series (videos) on the "Introduction to Software Testing" are available [here](https://www.youtube.com/playlist?list=PL8NmkOh_MokYbFTRu6xzTJvLNAdOquGr9). The videos were uploaded to make lectures available to students during the COVID-19 lockdown period.
 
-**Conference Track Chair & Program Committee Member**
+**Conference Track Chair & Organizing Committee Member**
 
-Aayush served/is serving as the Chair/Program Committee Member/Reviewer for the following Conference tracks:
-- Program Committee Member (and Reviewer) at the [41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)](https://conf.researchr.org/home/ase-2026), [Industry Showcase Track](https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase).
-- Program Committee Member (and Reviewer) at the [19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)](https://conf.researchr.org/home/icst-2026), [Mutation 2026 Workshop](https://conf.researchr.org/home/icst-2026/mutation-2026).
-- Program Committee Member (and Reviewer) at the [42nd International Conference on Software Maintenance and Evolution (ICSME) 2026](https://conf.researchr.org/home/icsme-2026), [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track).
-- Program Committee Member (and Reviewer) at the [42nd International Conference on Software Maintenance and Evolution (ICSME) 2026](https://conf.researchr.org/home/icsme-2026), [Visions and Emerging Results Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier).
-- Program Committee Member (and Reviewer) at the [40th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025](https://conf.researchr.org/home/ase-2025), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
-- **Co-Chair** of the [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering) track at the [29th International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025](https://conf.researchr.org/home/ease-2025).
-- Program Committee Member (and Reviewer) at the [34th International Symposium on Software Testing and Analysis (ISSTA 2025)](https://conf.researchr.org/home/issta-2025), [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
-- Program Committee Member (and Reviewer) at the [Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)](https://pricai.org/2025), Research Track.
-- Program Committee Member (and Reviewer) at the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024](https://conf.researchr.org/home/ase-2024), [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
-- Program Committee (and Reviewer) at the [17th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024](https://conf.researchr.org/home/icst-2024) co-located [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
+Aayush is serving/served as the Chair and Organizing Committee Member for the following Conference tracks/workshops:
+- **International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025**, [Learnings/Reflections of Evaluation and Assessment projects in Software Engineering Track](https://conf.researchr.org/track/ease-2025/ease-2025-learnings-reflections-of-evaluation-and-assessment-projects-in-software-engineering).
+
+**Program Committee Member**
+
+Aayush is serving/served as the Program Committee Member for the following Conference tracks/workshops:
+- **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026**, [Industry Showcase Track](https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase).
+- **[IEEE International Conference on Software Testing, Verification and Validation (ICST) 2026**, [Mutation 2026 Workshop](https://conf.researchr.org/home/icst-2026/mutation-2026).
+- **International Conference on Software Maintenance and Evolution (ICSME) 2026**, [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track).
+- **International Conference on Software Maintenance and Evolution (ICSME) 2026**, [Visions and Emerging Results Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier).
+- **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025**, [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
+- **International Symposium on Software Testing and Analysis (ISSTA) 2025**, [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
+- **Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025**, [Research Track](https://pricai.org/2025).
+- **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2024**, [The New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track).
+- **IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024**, [Mutation 2024](https://conf.researchr.org/home/icst-2024/mutation-2024).
 
 **Peer Reviewer (Journals)**
 
