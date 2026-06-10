@@ -16,12 +16,12 @@ Publications
 * **"Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities."**<br>
 _**Aayush Garg**, Zanis Ali Khan, Renzo Degiovanni, Qiang Tang._<br>
 ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering - Building AI and Building with AI (SEAI) 2026<br>
-[Preprint](https://arxiv.org/abs/2511.23408)
+[link](https://dl.acm.org/doi/10.1145/3748522.3779743) | [Extended version](https://arxiv.org/abs/2511.23408)
 
 * **"Evaluation of Multi-Language Vulnerability Patching with Pre-Trained Models."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Yuejun Guo, Qiang Tang._<br>
 ACM/SIGAPP Symposium on Applied Computing (SAC) Computer Security (SEC) 2026<br>
-[PDF](https://draayushgarg.github.io/files/Evaluation_of_Multi_Language_Vulnerability_Patching_with_Pre_Trained_Models.pdf) | [arXiv](https://doi.org/10.48550/arXiv.2501.07339)
+[link](https://dl.acm.org/doi/10.1145/3748522.3779750)
 
 * **"A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair."**<br>
 _Zanis Ali Khan, **Aayush Garg**, Qiang Tang._<br>
