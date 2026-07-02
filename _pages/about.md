@@ -13,7 +13,7 @@ Dr. Aayush Garg holds a PhD in Computer Science and specializes in research in S
 
 Research Interests
 -
-Aayush's research endeavors revolve around the dynamic intersection of **_Security Testing_** and **_Artificial Intelligence_**, with a focus on enhancing **_Software Quality, Validation and Trustworthiness_**. With a background in **_Vulnerability Prediction_**, **_Mutation Testing_**, **_Deep Learning_**, and **_Large Language Models_**, his work aims to revolutionize **_Software and Security Testing Methodologies_**. He is committed to advancing **_Software Validation Methods_**, aiming to provide tangible tools and techniques for the evolving landscape of Software & Security Testing, and Artificial Intelligence.
+Aayush's research endeavors revolve around the dynamic intersection of **_Security Testing_** and **_Artificial Intelligence_**, with a focus on enhancing **_Software Quality, Validation and Trustworthiness_**. With a background in **_Mutation Testing_**, **_Vulnerability Prediction_**, and **_Machine Learning / Deep Learning_**, his work aims to advance **_Software and Security Testing Methodologies_**. He is committed to improving **_Software Validation Methods_**, aiming to provide tangible tools and techniques for the evolving landscape of Software & Security Testing, and Artificial Intelligence.
 
 Education
 -
