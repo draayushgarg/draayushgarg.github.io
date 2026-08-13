@@ -6,7 +6,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-Distinction/Award
+Grant Writing
 -
 **ROSETTA Postdoctoral Fellowship (Marie Skłodowska-Curie Actions, MSCA COFUND), 2026 - Above funding threshold score: 0.8/1.0**
 
@@ -40,6 +40,7 @@ Aayush is serving/served as the Chair and Organizing Committee Member for the fo
 **Program Committee Member**
 
 Aayush is serving/served as the Program Committee Member for the following Conference tracks/workshops:
+- **ACM International Conference on the Foundations of Software Engineering (FSE) 2027**, [Industry Track](https://conf.researchr.org/track/fse-2027/fse-2027-industry-papers).
 - **ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026**, [Tool Demonstrations Track](https://conf.researchr.org/track/issta-2026/splash-issta-2026-posters-and-tool-demonstrations).
 - **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026**, [Industry Showcase Track](https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase).
 - **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026**, [Tools and Datasets Track](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets).
