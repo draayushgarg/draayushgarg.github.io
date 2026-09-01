@@ -76,12 +76,12 @@ Software Engineering Experience
 - He implemented microservices to capture up to 12 stock price updates per second (real-time) via market APIs.
 - He engineered a Futures and Commodities trading platform empowering min. 95% organizational market investments.
 
-**Senior Software Engineer at [Indus Valley Partners](https://www.ivp.in), USA from August 2012 to September 2014**
+**Senior Software Engineer at [Indus Valley Partners](https://www.ivp.in), India from August 2012 to September 2014**
 - Aayush built investment-compliance applications to automate legal due diligence auditing replacing up to 85% manual effort.
 - He implemented microservices to enable easily configurable email alerts streamlining min. 80% business process workflow.
 - He integrated portfolio dashboards and reporting capabilities for 11 Business Experts (SMEs) to facilitate overall debt investment overview.
 
-**Associate Software Engineer at [Fiserv](https://www.fiserv.com), USA from May 2010 to August 2012**
+**Associate Software Engineer at [Fiserv](https://www.fiserv.com), India from May 2010 to August 2012**
 - Aayush crafted web applications to streamline investment portfolio metrics capturing, resulting in a 53% increased efficiency.
 - He resolved defects and maintained source code to promote the management of 3 large-scale Electronic Fund Transfer banking projects.
 - He ensured high quality (min. 85% defect-free) of applications under development through peer-reviewing code modifications.
