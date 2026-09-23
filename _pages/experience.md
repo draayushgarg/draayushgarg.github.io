@@ -45,9 +45,10 @@ Aayush is serving/served as the Program Committee Member for the following Confe
 - **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026**, [Industry Showcase Track](https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase).
 - **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026**, [Tools and Datasets Track](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets).
 - **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026**, [New Ideas and Emerging Results (NIER) track](https://conf.researchr.org/track/ase-2026/ase-2026-nier).
-- **[IEEE International Conference on Software Testing, Verification and Validation (ICST) 2026**, [Mutation 2026 Workshop](https://conf.researchr.org/home/icst-2026/mutation-2026).
+- **IEEE International Conference on Software Testing, Verification and Validation (ICST) 2026**, [Mutation 2026 Workshop](https://conf.researchr.org/home/icst-2026/mutation-2026).
 - **International Conference on Software Maintenance and Evolution (ICSME) 2026**, [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track).
 - **International Conference on Software Maintenance and Evolution (ICSME) 2026**, [Visions and Emerging Results Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier).
+- **International Symposium on Information and Communication Technology (SOICT) 2026**, [Software Engineering, Trusted Digital Platforms, and Smart Services](https://soict.org/program-committee/).
 - **IEEE/ACM International Conference on Automated Software Engineering (ASE) 2025**, [New Ideas and Emerging Results (NIER) Track](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track).
 - **International Symposium on Software Testing and Analysis (ISSTA) 2025**, [Tool Demonstrations track](https://conf.researchr.org/track/issta-2025/issta-2025-tool-demonstrations).
 - **Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025**, [Research Track](https://pricai.org/2025).
